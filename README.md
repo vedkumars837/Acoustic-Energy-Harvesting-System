@@ -15,6 +15,7 @@ Real-time Streamlit dashboard for acoustic energy harvesting simulation. Monitor
 - [Technology Stack](#technology-stack)
 - [Installation & Setup](#installation--setup)
 - [Usage Guide](#usage-guide)
+- [Dashboard Screenshots](#dashboard-screenshots)
 ---
 
 ## 🎯 Project Overview
@@ -132,6 +133,29 @@ sudo apt-get install python3-pyaudio
 - **Capacitor Max:** 0.1-10.0 J (default: 1.0 J)
 - **Packet Cost:** 0.00001-0.001 J (default: 0.0001 J)
 - **Auto-Transmit:** 50-100% (default: 80%)
+
+---
+## 📸 Dashboard Screenshots
+
+### 🔹 Real-Time Dashboard
+![WhatsApp Image 2026-02-13 at 6 15 15 PM](https://github.com/user-attachments/assets/9783beb7-2703-4132-9ff7-2d8036801bd0)
+
+
+### 🔹 Energy & Intensity View
+![WhatsApp Image 2026-02-13 at 6 15 15 PM (1)](https://github.com/user-attachments/assets/2efafa60-e3f8-4628-a779-d3a49fc627e9)
+
+
+### 🔹 IoT Transmission Trigger
+![WhatsApp Image 2026-02-13 at 6 23 47 PM (1)](https://github.com/user-attachments/assets/e8a72346-dcaf-4934-9521-ab1e12d7935c)
+
+
+### 🔹 Silence Detection Mode
+![WhatsApp Image 2026-02-13 at 6 23 47 PM](https://github.com/user-attachments/assets/b3ad06c4-fbb8-4c0d-b094-86ec11995b2e)
+
+
+### 🔹 Capacitor Status Overview
+![WhatsApp Image 2026-02-13 at 6 23 48 PM](https://github.com/user-attachments/assets/42f2740b-929e-4498-9ad3-b503ce4aee1c)
+
 
 ---
 
